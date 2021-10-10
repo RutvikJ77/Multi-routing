@@ -1,5 +1,7 @@
 # Multi Vehicle routing solution
 
+![Logo](https://i.imgur.com/31MpZyG.jpg)
+
 A simple solution to get dynamically optimize routes for multiple vehicles visiting a set of locations given real-life constraints such as limited capacity in a vehicle or delivery time windows. Just upload a pre-formatted route_request excel file with the details of transport orders and fleet of vehicles. You can easily configure costs to optimize the route plans for which is then sent to HERE API. The API will solve the multi-vehicle routing problem and provide the optimal sequence of locations according to the costs.
 
 #### Solving sustainability issues
